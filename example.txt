@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the feature branch change
+=======
+this is the feature branchage
+>>>>>>> feature-branch
